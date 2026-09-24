@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 84" width="340" height="84" role="img" aria-label="Maleta Lista - Itinerarios a medida">
+  <title>Maleta Lista</title>
+  <!-- Marca: maleta a linea fina -->
+  <g fill="none" stroke="#0f5c6b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 24v-4a7 7 0 0 1 14 0v4" />
+    <rect x="10" y="24" width="44" height="38" rx="6" />
+    <path d="M10 41h44" stroke="#ffd166" stroke-width="4" />
+    <path d="M22 62v5M42 62v5" />
+  </g>
+  <!-- Nombre -->
+  <text x="72" y="40" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="27" font-weight="600" fill="#0f5c6b" letter-spacing="1.5">Maleta Lista</text>
+  <path d="M73 50h218" stroke="#ddd2be" stroke-width="1.5" />
+  <text x="72" y="66" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="600" fill="#4a5558" letter-spacing="3.4">ITINERARIOS A MEDIDA</text>
+</svg>
